@@ -1,1 +1,1 @@
-Some fun way of telling influential interceptors that your message was meant for them i susing a 16 channel PMR radio and code your message in the possible 121 channel call codes, provided the message does not involve over 16 diverse letters.
+Some fun way of telling influential interceptors within 10kms of range, that your message was meant for them, is using a 16 channel PMR radio and encode your message in the possible 121 channel call codes, provided the message does not involve over 16 diverse ASCII codes which all are smaller than 122.
